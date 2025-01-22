@@ -210,7 +210,7 @@ section p {
 }
 
 #Contact h2 {
-    color: #333;
+    color: black;
     margin-bottom: 1rem;
 }
 
@@ -232,7 +232,7 @@ section p {
 }
 
 .contact-list a:hover {
-    color: #333;
+    color: black;
     text-decoration: underline;
 }
 
